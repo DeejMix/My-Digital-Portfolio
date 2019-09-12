@@ -1,0 +1,55 @@
+.row {
+  display: flex;
+  background: #afd6e9;
+}
+.head {
+  color: white;
+  font-family: Montserrat Alternates;
+}
+.column {
+  flex: 50%;
+  padding: 20px;
+}
+.title {
+  
+}
+.header {
+  background: linear-gradient(135deg, #3a70ba, #509cbf, #3a70ba);
+  width: 100%;
+  border-radius: 20px;
+}
+div {
+  border-radius: 10px;
+}
+ul{
+  padding: 20px;
+  font-family: Montserrat;
+}
+li {
+  font-family: Montserrat;
+}
+#head {
+  font-family: Montserrat Alternates;
+}
+p {
+  font-family: Montserrat;
+}
+nav {
+ padding: 20px;
+  font-family: Montserrat;
+  color: white;
+}
+a {
+  color: white;
+}
+.non-white-a {
+  color: black;
+}
+a:active {
+  color: red;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
